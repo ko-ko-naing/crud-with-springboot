@@ -8,6 +8,9 @@ POST http://localhost:8080/api/employees
 Get Employee By Id 
 GET http://localhost:8080/api/employees/1
 
+Get All Employee 
+GET http://localhost:8080/api/employees/all
+
 Update Employee By Id 
 PUT http://localhost:8080/api/employees/1 
 
